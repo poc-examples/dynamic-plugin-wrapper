@@ -1,0 +1,20 @@
+{
+    "name": "dynamic-plugin-wrapper",
+    "version": "0.1.0",
+    "backstage": {
+        "role": "frontend-plugin"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.14.0",
+        "@emotion/styled": "^11.14.0",
+        "@material-ui/core": "^4.12.4",
+        "@mui/material": "^5.16.14",
+        "@types/react": "^17.0.83",
+        "backstage-plugin-snyk": "^2.5.1",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    },
+    "devDependencies": {
+        "@janus-idp/cli": "^1.18.6"
+    }
+}
